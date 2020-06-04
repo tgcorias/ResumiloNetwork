@@ -1,0 +1,32 @@
+#particles-js{
+	background-image: url(../img/slider-nosotros.jpg);
+	background-size: 100vw 100vh;
+	background-attachment: fixed;
+	margin: 0; 
+	font-family: rale;
+	background-repeat: no-repeat; 
+}
+.ancholer{
+	top: 0px;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	z-index: 1;
+}
+.letras-slider{
+	width: 80%;
+	margin: auto;
+}
+.letras-slider h1{
+	color: #444;
+	font-family: rale;
+	font-size: 70px;
+}
+.letras-slider p{
+	text-align: center;
+	color: #444;
+	font-size: 20px;
+	font-family: rale;
+	padding-top: 50px;
+
+}

@@ -1,0 +1,58 @@
+font-family: 'Lato', sans-serif;
+
+.container{
+	margin:auto;
+	width: 90%;
+	font-family: 'Lato', sans-serif;
+
+}
+.container h1, h2, h3, h4, h5, h6{
+	 text-transform: none;
+	 font-weight: 700;
+	 color: #E6E6E6;
+}
+.container p{
+	font-weight: 700;
+	color: #E6E6E6;
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
+.flex{
+	display: flex;
+	flex-wrap: wrap;
+}
+.text-center{
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.perfil{
+	width: 70px;
+	height: 70px;
+}
+.columna{
+	background:rgba(0,0,0,.1);
+	border: 0.1px solid;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 15px;
+	box-shadow: 10px 10px 5px rgba(0,0,0,.4);
+	width: 30%;
+	box-sizing: border-box;	
+}
+
+.btn-ig{
+	background:#179AF1;
+	display: block;
+	padding: 10px;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	transition: 0.2s;
+
+}
+.btn-ig:hover{
+	background-color: #0C7AE8;
+	transition: 0.2s;
+}
